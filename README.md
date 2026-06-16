@@ -23,6 +23,15 @@ Beyond the models and metrics, I care about **clean problem-solving and continuo
 
 > Always learning. Always shipping. Always curious.
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>"It always seems impossible until it's done."</h3>
+      <p><em>— Nelson Mandela</em></p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Tech Stack
@@ -91,4 +100,10 @@ Beyond the models and metrics, I care about **clean problem-solving and continuo
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithWinton&theme=tokyo-night" alt="Commit Activity Graph"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeWithWinton&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
